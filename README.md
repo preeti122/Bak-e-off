@@ -11,14 +11,12 @@ Our project BAK-E-OFF is an e-commerce bakery delivery website that takes orders
 *  MySQL
 
 
-![home](https://github.com/preeti122/Bak-e-off/assets/73667403/2ba6ef60-4b44-4d56-a000-8ce31207d553)
+![home](https://github.com/preeti122/Bak-e-off/assets/73667403/43f0c2cd-8093-418f-bf46-4544a7ad22be)
 
-![signup](https://github.com/preeti122/Bak-e-off/assets/73667403/54696d07-4d80-4321-b6ab-b3677d9793ac)
+![signup](https://github.com/preeti122/Bak-e-off/assets/73667403/d29b944f-d2d6-4155-becb-56484afa42db)
 
-![addDetails](https://github.com/preeti122/Bak-e-off/assets/73667403/7b86c04f-9ef2-44df-8b87-ccde010126db)
+![addDetails](https://github.com/preeti122/Bak-e-off/assets/73667403/85025e9d-4d15-4aef-b1b7-d9498cb59323)
 
-![cart](https://github.com/preeti122/Bak-e-off/assets/73667403/1c1adf40-5173-42bb-97ec-a63f6eea1a5d)
+![cart](https://github.com/preeti122/Bak-e-off/assets/73667403/9b0937cd-9569-4db7-a753-7646aeb07631)
 
-![profile](https://github.com/preeti122/Bak-e-off/assets/73667403/4d7afb97-4625-48a6-8715-dadd0e3373fd)
-
-
+![profile](https://github.com/preeti122/Bak-e-off/assets/73667403/7b237c47-c4c6-4a4a-adb0-d32ab28696a5)
