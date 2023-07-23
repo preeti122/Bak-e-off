@@ -1,0 +1,14 @@
+
+  footer {
+    background-color: rgb(95, 68, 155);
+    left: 0;
+    bottom: 0;
+    padding: 5px;
+    position: fixed;
+    font-family: 'Courier New', Courier, monospace;
+    /* width: 100%; */
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size:large;
+}
