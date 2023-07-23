@@ -10,6 +10,7 @@ Our project BAK-E-OFF is an e-commerce bakery delivery website that takes orders
 *  PHP
 *  MySQL
 
+# Login Page
 ![image](https://github.com/preeti122/Bak-e-off/assets/73179209/8e4c32fa-05fc-4ce6-a5f2-6cb19e94d9b1)
 
 # Customer Interface
